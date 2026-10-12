@@ -1,0 +1,9 @@
+.venv/
+checkpoints/
+data/chips/
+__pycache__/
+*.pyc
+logs_*.txt
+.DS_Store
+demo/data/
+demo/static/thumbs/
